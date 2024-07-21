@@ -144,7 +144,21 @@ project:
         + **Software Installation:** Installed command line-based image registration software using CMake and set up MATLAB Runtime-based automatic chest image segmentation software.
         + **Algorithm implementation:** The image feature used by the registration algorithm was implemented from scratch.
         + **Performance Benchmarking:** Provided the software setup for performance comparison experiments to lab students.
-    
+
+    - name: KNN Imputation and Decision Tree Classifier
+      link: 'https://github.com/chenyu-chang/KNN-Imputation-and-Decision-Tree'
+      tags: C++, Recursion
+      date: 2023
+      description: |
+        This is an example assignment I wrote while being a teaching assistant. The content is about implementing KNN imputation and a binary decision tree classifier using C++.
+
+    - name: Real-time Object Tracking and Classification
+      link: 'https://github.com/chenyu-chang/object_traking_opencv/tree/master'
+      tags: Object Tracking, Classification
+      date: 2023
+      description: |
+        Users can specify objects to track and simultaneously perform object tracking and image classification tasks.
+            
     - name: Plaque Detection in Blood Vessel
       link: 
       tags: Binary Classification, Transfer Learning
@@ -154,20 +168,6 @@ project:
         + **Reproduced Research:** Reproduced the deep learning architecture from a relevant research paper using PyTorch, integrating it with our dataset and technologies.
         + **Transfer Learning and Fine-Tuning:** Transferred pretrained weights from a 2D ResNet to a 3D ResNet andfine-tuned the model, improving the F1-score from 0.8 to 0.9.
 
-    - name: KNN Imputation and Decision Tree Classifier
-      link: 'https://github.com/chenyu-chang/KNN-Imputation-and-Decision-Tree'
-      tags: C++, Recursion
-      date:
-      description: |
-        This is an example assignment I wrote while being a teaching assistant. The content is about implementing KNN imputation and a binary decision tree classifier using C++.
-
-    - name: Real-time Object Tracking and Classification
-      link: 'https://github.com/chenyu-chang/object_traking_opencv/tree/master'
-      tags: Object Tracking, Classification
-      date:
-      description: |
-        Users can specify objects to track and simultaneously perform object tracking and image classification tasks.
-          
 skill:
   show: true
   order: 5

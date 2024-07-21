@@ -139,9 +139,9 @@ project:
         + First
         + Second
 
-    - name: OSS project
-      link:
-      tags: committer
+    - name: Real-time Object Tracking and Classification
+      link: 'https://github.com/chenyu-chang/object_traking_opencv/tree/master'
+      tags: OpenCV
       date:
       description: |
         OSS project description...
@@ -214,17 +214,14 @@ education:
       major: Biomedical Engineering
       degree: Master
       description: |
-        + Thesis: “Predicting Prognosis of Coronary Artery Disease from Coronary Intervention TreatmentUsing Preoperative CZT-SPECT Myocardial Perfusion Imaging: Constructing Composite PredictionModels Based on 3D Swin Transformer and Investigating the Impact of Model Parameters onPredictive Performance”
-        + Keywords: 3D Swin Transformer, Coronary Artery Disease, Prognosis
-
+        + Deep Learning and Medical Image Analysis
     - institution: National Chung Hsing University
       link:
       date: 2017 - 2021
       major: Bio-industrial Mechatronics Engineering
       degree: Bachelor
       description: |
-        + Senior Project: “Object Tracking for Self-Driving Cars Using the CamShift Algorithm”
-        + Object Tracking, Raspberry Pi, Arduino
+        + Digital Image Processing and Embedded System
 
 certificate:
   show: false
@@ -369,15 +366,19 @@ interest:
       link:
 
 evaluation:
-  show: false
+  show: true
   order: 13
-  title: Self-evaluation
+  title: activities
   description: |
-    The self-evaluation section in a resume is a section where you can evaluate and assess your own skills, strengths, and weaknesses. It is typically a short paragraph or bullet points at the end of your resume, which provides a personal perspective on your abilities and how they align with the requirements of the job.
+    + Poster Presentation at the 2024 Annual Meeting of the Society of Nuclear Medicine and Molecular Imaging (SNMMI) in Canada.
+    + Showcased research findings at the Taiwan Innotech Expo 2023.
+    + NTU BIME Teaching Assistant for Fundamental Data Structures (2022, 2023, and 2024 semesters).
+    + NCHU Tennis School Team
+    # The self-evaluation section in a resume is a section where you can evaluate and assess your own skills, strengths, and weaknesses. It is typically a short paragraph or bullet points at the end of your resume, which provides a personal perspective on your abilities and how they align with the requirements of the job.
 
-    In this section, you can highlight your achievements, areas of expertise, and any unique qualities or experiences that set you apart from other candidates. You can also mention areas where you are looking to improve or gain further experience.
+    # In this section, you can highlight your achievements, areas of expertise, and any unique qualities or experiences that set you apart from other candidates. You can also mention areas where you are looking to improve or gain further experience.
 
-    A well-crafted self-evaluation section can demonstrate your self-awareness and confidence in your abilities, as well as your willingness to continuously learn and grow. However, it is important to be honest and avoid over-inflating your skills or qualifications, as this can negatively impact your credibility and the hiring manager's impression of you.
+    # A well-crafted self-evaluation section can demonstrate your self-awareness and confidence in your abilities, as well as your willingness to continuously learn and grow. However, it is important to be honest and avoid over-inflating your skills or qualifications, as this can negatively impact your credibility and the hiring manager's impression of you.
 
 reference:
   show: false

@@ -266,7 +266,7 @@ publication:
     Including a publication section in your resume can help demonstrate your expertise and credibility in your field, and can help you stand out from other candidates. However, if you do not have any publications to list, it is not necessary to include this section in your resume.
 
   items:
-    - title: Deep Learning  # in Quantitative 201Tl Myocardial Perfusion Imaging: A Study onPrediction of Myocardial Perfusion Improvement After Coronary Revascularization
+    - title: "Deep Learning in Quantitative 201Tl Myocardial Perfusion Imaging: A Study onPrediction of Myocardial Perfusion Improvement After Coronary Revascularization"
       authors: Chen-Yu Chang et al.
       conference: SNMMI Annual Meeting, 2024
       link: 'https://jnm.snmjournals.org/content/65/supplement_2/241550'

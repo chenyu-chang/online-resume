@@ -130,23 +130,39 @@ project:
   #   The project section is especially useful for candidates with limited work experience or those looking to highlight specific skills or accomplishments that may not be apparent in other parts of their resume. It can also be beneficial for candidates in technical or creative fields, where projects play a significant role in showcasing their capabilities.
 
   items:
-    - name: Lung CT Registration [GitHub repository](https://github.com/chenyu-chang/NiftyReg_lung)
-      link: 
-      tags:
+    - name: Lung CT Registration
+      link: 'https://github.com/chenyu-chang/NiftyReg_lung'
+      tags: CMake, Image Registration
       date: Jan 2023 – Mar 2023
       description: |
         Implementation of lung CT registration based on the paper *A multichannel feature-based approach for longitudinallung CT registration in the presence of radiation induced lung damage.*
-        + First
-        + Second
-
+        + **Software Installation:** Installed command line-based image registration software using CMake and set up MATLAB Runtime-based automatic chest image segmentation software.
+        + **Algorithm implementation:** The image feature used by the registration algorithm was implemented from scratch.
+        + **Performance Benchmarking:** Provided the software setup for performance comparison experiments to lab students.
+    
     - name: Plaque Detection in Blood Vessel
       link: 
-      tags: binary classification, Transfer Learning
+      tags: Binary Classification, Transfer Learning
       date: Sep 2021 – Aug 2022
       description: |
         Used ResNet18 to predict the presence of plaques in each slice of Intravascular Optical Coherence Tomography(IVOCT) images
         + **Reproduced Research:** Reproduced the deep learning architecture from a relevant research paper using PyTorch, integrating it with our dataset and technologies.
         + **Transfer Learning and Fine-Tuning:** Transferred pretrained weights from a 2D ResNet to a 3D ResNet andfine-tuned the model, improving the F1-score from 0.8 to 0.9.
+
+    - name: KNN Imputation and Decision Tree Classifier
+        link: 'https://github.com/chenyu-chang/KNN-Imputation-and-Decision-Tree'
+        tags: C++, Recursion
+        date:
+        description: |
+          This is an example assignment I wrote while being a teaching assistant. The content is about implementing KNN imputation and a binary decision tree classifier using C++.
+
+    - name: Real-time Object Tracking and Classification
+        link: 'https://github.com/chenyu-chang/object_traking_opencv/tree/master'
+        tags: Object Tracking, Classification
+        date:
+        description: |
+          Users can specify objects to track and simultaneously perform object tracking and image classification tasks.
+          
 skill:
   show: true
   order: 5

@@ -102,7 +102,11 @@ experience:
       role: Research Assistant
       location: New Taipei City
       description: |
-        Work Content:
+        **Coronary Artery Disease Detection and Prognosis Prediction:**
+        + **Project Overview:** Developed a comprehensive system for detecting and predicting the prognosis of obstructive coronary artery disease using 3D nuclear myocardial perfusion scan images.
+        + **Technologies Used:** CNN (Inception, Residual Networks), Transformer (Swin Transformer), TensorFlow, PyTorch MONAI, MATLAB.
+        + **Conducted clinical validation** across hospitals, performing statistical analysis and addressing overfitting to enhance model generalizability.     
+        **Work Content:**
         + Process medical images (DICOM) and clinical data.
         + Develop and optimize predictive models, and analyze results in collaboration with medical experts.
         + Reproduce academic papers related to deep learning and medical imaging.
@@ -130,7 +134,7 @@ project:
   #   The project section is especially useful for candidates with limited work experience or those looking to highlight specific skills or accomplishments that may not be apparent in other parts of their resume. It can also be beneficial for candidates in technical or creative fields, where projects play a significant role in showcasing their capabilities.
 
   items:
-    - name: ##Lung CT Registration##
+    - name: Lung CT Registration
       link: 'https://github.com/chenyu-chang/NiftyReg_lung'
       tags: CMake, Image Registration
       date: Jan 2023 – Mar 2023

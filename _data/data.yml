@@ -103,14 +103,14 @@ experience:
       location: New Taipei City
       description: |
         **Coronary Artery Disease Detection and Prognosis Prediction:**
-        + **Project Overview:** Developed a comprehensive system for detecting and predicting the prognosis of obstructive coronary artery disease using 3D nuclear myocardial perfusion scan images.
-        + **Technologies Used:** CNN (Inception, Residual Networks), Transformer (Swin Transformer), TensorFlow, PyTorch MONAI, MATLAB.
-        + **Conducted clinical validation** across hospitals, performing statistical analysis and addressing overfitting to enhance model generalizability.     
+          + **Project Overview:** Developed a comprehensive system for detecting and predicting the prognosis of obstructive coronary artery disease using 3D nuclear myocardial perfusion scan images.
+          + **Technologies Used:** CNN (Inception, Residual Networks), Transformer (Swin Transformer), TensorFlow, PyTorch MONAI, MATLAB.
+          + **Conducted clinical validation** across hospitals, performing statistical analysis and addressing overfitting to enhance model generalizability.     
         
         **Work Content:**
-        + Process medical images (DICOM) and clinical data.
-        + Develop and optimize predictive models, and analyze results in collaboration with medical experts.
-        + Reproduce academic papers related to deep learning and medical imaging.
+          + Process medical images (DICOM) and clinical data.
+          + Develop and optimize predictive models, and analyze results in collaboration with medical experts.
+          + Reproduce academic papers related to deep learning and medical imaging.
 
     # - company: First Company
     #   link:
@@ -181,25 +181,25 @@ skill:
 
   #   There are multiple ways to present your skills here. One way is to show them in a rating format. Another way is to group them together. Alternatively, you can use markdown to format it in a way that you prefer.
 
-  items:
-  - name: Python Frameworks: PyTorch, TensorFlow, OpenCV, Pandas, scikit-learn
-    level: 5
-  - name: MATLAB: Image processing and visualization
-    level: 4
-  - name: C/C++: Data structures and algorithms
-    level: 3
-  - name: Docker, CMake
-    level: 3
-  - name: Embedded Systems: Arduino, Raspberry Pi
-    level: 3
-  - name: Linux: GPU server utilization
-    level: 3
-  - name: Deep Learning
-    level: 4
-  - name: Machine Learning
-    level: 4
-  - name: Data Analysis
-    level: 3
+  # items:
+  # - name: "Python Frameworks: PyTorch, TensorFlow, OpenCV, Pandas, scikit-learn"
+  #   level: 5
+  # - name: "MATLAB: Image processing and visualization"
+  #   level: 4
+  # - name: C/C++
+  #   level: 3
+  # - name: Docker, CMake
+  #   level: 3
+  # - name: Embedded Systems: Arduino, Raspberry Pi
+  #   level: 3
+  # - name: Linux: GPU server utilization
+  #   level: 3
+  # - name: Deep Learning
+  #   level: 4
+  # - name: Machine Learning
+  #   level: 4
+  # - name: Data Analysis
+  #   level: 3
 
 groups:
   - name: Advanced Skills

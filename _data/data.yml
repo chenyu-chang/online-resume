@@ -102,9 +102,10 @@ experience:
       role: Research Assistant
       location: New Taipei City
       description: |
-        Your key responsibilities and achievements in the company.
-        + First
-        + Second
+        Work Content:
+        + Process medical images (DICOM) and clinical data.
+        + Develop and optimize predictive models, and analyze results in collaboration with medical experts.
+        + Reproduce academic papers related to deep learning and medical imaging.
 
     # - company: First Company
     #   link:

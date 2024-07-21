@@ -256,18 +256,18 @@ publication:
   show: true
   order: 7
   title: Publications
-  description: |
-    The publication section in a resume is a dedicated section where you can showcase any publications that you have authored or contributed to. This section is particularly relevant for individuals in academic or research fields, but can also be relevant for individuals in other fields who have published articles or papers.
+  # description: |
+  #   The publication section in a resume is a dedicated section where you can showcase any publications that you have authored or contributed to. This section is particularly relevant for individuals in academic or research fields, but can also be relevant for individuals in other fields who have published articles or papers.
 
-    Publications can include academic journal articles, conference papers, book chapters, reports, or other written works. In this section, you should list the title of the publication, the names of any co-authors, the name of the publication or conference, the date of publication, and any other relevant details.
+  #   Publications can include academic journal articles, conference papers, book chapters, reports, or other written works. In this section, you should list the title of the publication, the names of any co-authors, the name of the publication or conference, the date of publication, and any other relevant details.
 
-    If you have a long list of publications, you may want to consider including only the most relevant or significant publications on your resume. Alternatively, you could create a separate publication list and provide it as a separate document, either in your application materials or upon request.
+  #   If you have a long list of publications, you may want to consider including only the most relevant or significant publications on your resume. Alternatively, you could create a separate publication list and provide it as a separate document, either in your application materials or upon request.
 
-    Including a publication section in your resume can help demonstrate your expertise and credibility in your field, and can help you stand out from other candidates. However, if you do not have any publications to list, it is not necessary to include this section in your resume.
+  #   Including a publication section in your resume can help demonstrate your expertise and credibility in your field, and can help you stand out from other candidates. However, if you do not have any publications to list, it is not necessary to include this section in your resume.
 
   items:
     - title: "Deep Learning in Quantitative 201Tl Myocardial Perfusion Imaging: A Study onPrediction of Myocardial Perfusion Improvement After Coronary Revascularization"
-      authors: Chen-Yu Chang et al.
+      authors: Chen-Yu Chang, Chi-Lun Ko, Cheng‑Wen Huang, Shau‑Syuan Lin, Yu-Hui Chang, Chung‑Ming Chen and Yen-Wen Wu
       conference: SNMMI Annual Meeting, 2024
       link: 'https://jnm.snmjournals.org/content/65/supplement_2/241550'
     # - title: The Art of Example Publication

@@ -106,16 +106,16 @@ experience:
         + First
         + Second
 
-    - company: First Company
-      link:
-      tags: Part-time, remote
-      date: 2017.03 - 2018.03
-      role: Backend Developer
-      location: Beijing
-      description: |
-        Your key responsibilities and achievements in the company.
-        + First
-        + Second
+    # - company: First Company
+    #   link:
+    #   tags: Part-time, remote
+    #   date: 2017.03 - 2018.03
+    #   role: Backend Developer
+    #   location: Beijing
+    #   description: |
+    #     Your key responsibilities and achievements in the company.
+    #     + First
+    #     + Second
 
 project:
   show: true
@@ -213,7 +213,6 @@ education:
       major: Biomedical Engineering
       degree: Master
       description: |
-        # Additional information for this institution.
         + Thesis: “Predicting Prognosis of Coronary Artery Disease from Coronary Intervention TreatmentUsing Preoperative CZT-SPECT Myocardial Perfusion Imaging: Constructing Composite PredictionModels Based on 3D Swin Transformer and Investigating the Impact of Model Parameters onPredictive Performance”
         + Keywords: 3D Swin Transformer, Coronary Artery Disease, Prognosis
 
@@ -223,7 +222,6 @@ education:
       major: Bio-industrial Mechatronics Engineering
       degree: Bachelor
       description: |
-        # Additional information for this institution.
         + Senior Project: “Object Tracking for Self-Driving Cars Using the CamShift Algorithm”
         + Object Tracking, Raspberry Pi, Arduino
 

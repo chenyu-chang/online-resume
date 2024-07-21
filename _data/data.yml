@@ -181,42 +181,37 @@ skill:
 
   #   There are multiple ways to present your skills here. One way is to show them in a rating format. Another way is to group them together. Alternatively, you can use markdown to format it in a way that you prefer.
 
-  # items:
-  # - name: "Python Frameworks: PyTorch, TensorFlow, OpenCV, Pandas, scikit-learn"
-  #   level: 5
-  # - name: "MATLAB: Image processing and visualization"
-  #   level: 4
-  # - name: C/C++
-  #   level: 3
-  # - name: Docker, CMake
-  #   level: 3
-  # - name: Embedded Systems: Arduino, Raspberry Pi
-  #   level: 3
-  # - name: Linux: GPU server utilization
-  #   level: 3
-  # - name: Deep Learning
-  #   level: 4
-  # - name: Machine Learning
-  #   level: 4
-  # - name: Data Analysis
-  #   level: 3
+  items:
+  - name: "Python Frameworks: PyTorch, TensorFlow, OpenCV, Pandas, scikit-learn"
+    level: 4
+  - name: "MATLAB: Image processing and visualization"
+    level: 4
+  - name: C/C++
+    level: 3
+  - name: "Embedded Systems: Arduino, Raspberry Pi"
+    level: 2
+  - name: Deep Learning
+    level: 4
+  - name: Machine Learning
+    level: 3
+  - name: Data Analysis
+    level: 3
 
 groups:
-  - name: Advanced Skills
+  - name: Computer Vision
     item:
-      - Python Frameworks: PyTorch, TensorFlow, OpenCV, Pandas, scikit-learn
-      - MATLAB: Image processing and visualization
-      - C/C++: Data structures and algorithms
-      - Docker, CMake
-  - name: Intermediate Skills
+      - Image Processing
+      - Classification
+      - Segmentation
+      - Registration
+  - name: Linux
     item:
-      - Embedded Systems: Arduino, Raspberry Pi
-      - Linux: GPU server utilization
-      - Deep Learning
-  - name: Basic Skills
+      - Python Virtualenv
+      - GPU server utilization
+  - name: Development Tools
     item:
-      - Machine Learning
-      - Data Analysis
+      - CMake
+      - Docker
 
 education:
   show: true

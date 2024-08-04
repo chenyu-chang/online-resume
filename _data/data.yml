@@ -1,6 +1,6 @@
 basic:
   name: Chen-Yu Chang                      # name
-  title: Software Engineer           # job title
+  title:            # job title
   avatar:
     show: false                       # show or hide avatar
     path: /assets/images/profile.png # avatar file path

@@ -192,7 +192,7 @@ skill:
     level: 2
   - name: Deep Learning
     level: 4
-  - name: Data Analysis
+  - name: Circuit design
     level: 3
 
   groups:

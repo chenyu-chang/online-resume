@@ -193,7 +193,7 @@ skill:
   - name: Deep Learning
     level: 4
   - name: Circuit Design
-    level: 3
+    level: 2
 
   groups:
     - name: Computer Vision

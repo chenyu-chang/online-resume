@@ -105,7 +105,7 @@ experience:
         **Coronary Artery Disease Detection and Prognosis Prediction Project:**
           + **Overview:** Developed a comprehensive system for detecting and predicting the prognosis of obstructive coronary artery disease using 3D nuclear myocardial perfusion scan images.
           + **Technologies Used:** CNN (Inception, Residual Networks), Unet, Transformer (Swin Transformer), TensorFlow, PyTorch MONAI, MATLAB.
-          + **Conducted clinical validation** across hospitals, performing statistical analysis and addressing overfitting to enhance model generalizability.     
+          + **Conducted Clinical Validation** across hospitals, performing statistical analysis and addressing overfitting to enhance model generalizability.     
         
         **Work Content:**
           + Process medical images (DICOM) and clinical data.

@@ -188,8 +188,6 @@ skill:
     level: 4
   - name: C/C++
     level: 3
-  - name: "Embedded Systems: Arduino, Raspberry Pi"
-    level: 2
 
   groups:
     - name: Computer Vision
@@ -198,10 +196,14 @@ skill:
         - Classification
         - Segmentation
         - Registration
-    - name: Deep Learning Framework
+    - name: Python Framework
       item:
         - Pytorch
         - TensorFlow
+        - Scikit-learn
+        - Matplotlib
+        - Pandas        
+        - OpenCV
     - name: Linux
       item:
         - Vim
@@ -211,6 +213,10 @@ skill:
       item:
         - CMake
         - Docker
+    - name: Embedded Systems
+      item:
+        - Arduino
+        - Raspberry Pi
 
 education:
   show: true

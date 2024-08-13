@@ -198,8 +198,6 @@ skill:
         - Classification
         - Segmentation
         - Registration
-        - Object Tracking
-        - Object Detection
     - name: Linux
       item:
         - Vim

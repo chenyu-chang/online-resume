@@ -284,8 +284,14 @@ publication:
   #   Including a publication section in your resume can help demonstrate your expertise and credibility in your field, and can help you stand out from other candidates. However, if you do not have any publications to list, it is not necessary to include this section in your resume.
 
   items:
+    - title: "Cross-institutional validation of a polar map-free 3D deep learning model for obstructive coronary artery disease prediction using myocardial perfusion imaging: insights into generalizability and bias"
+      authors: Yu-Cheng Shih, Chi-Lun Ko, Shan-Ying Wang, **Chen-Yu Chang**, Shau-Syuan Lin, Cheng-Wen Huang, Mei-Fang Cheng, Chung-Ming Chen & Yen-Wen Wu
+      conference: European Journal of Nuclear Medicine and Molecular Imaging, 2025
+      link: 'https://doi.org/10.1007/s00259-025-07243-w'
+      
+  items:
     - title: "Deep Learning in Quantitative 201Tl Myocardial Perfusion Imaging: A Study on Prediction of Myocardial Perfusion Improvement After Coronary Revascularization"
-      authors: Chen-Yu Chang, Chi-Lun Ko, Cheng‑Wen Huang, Shau‑Syuan Lin, Yu-Hui Chang, Chung‑Ming Chen and Yen-Wen Wu
+      authors: **Chen-Yu Chang**, Chi-Lun Ko, Cheng‑Wen Huang, Shau‑Syuan Lin, Yu-Hui Chang, Chung‑Ming Chen and Yen-Wen Wu
       conference: SNMMI Annual Meeting, 2024
       link: 'https://jnm.snmjournals.org/content/65/supplement_2/241550'
     # - title: The Art of Example Publication

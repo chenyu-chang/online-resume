@@ -112,6 +112,23 @@ experience:
           + Develop and optimize predictive models, and analyze results in collaboration with medical experts.
           + Reproduce academic papers related to deep learning and medical imaging.
 
+    - company: Far Eastern Memorial Hospital
+      link: 
+      tags: 
+      date: 2023.09 - Present
+      role: Research Assistant
+      location: New Taipei City
+      description: |
+        **Coronary Artery Disease Detection and Prognosis Prediction Project:**
+          + **Overview:** Developed a comprehensive system for detecting and predicting the prognosis of obstructive coronary artery disease using 3D nuclear myocardial perfusion scan images.
+          + **Technologies Used:** CNN (Inception, Residual Networks), Unet, Transformer (Swin Transformer), TensorFlow, PyTorch MONAI, MATLAB.
+          + **Conducted Clinical Validation** across hospitals, performing statistical analysis and addressing overfitting to enhance model generalizability.     
+        
+        **Work Content:**
+          + Process medical images (DICOM) and clinical data.
+          + Develop and optimize predictive models, and analyze results in collaboration with medical experts.
+          + Reproduce academic papers related to deep learning and medical imaging.
+
     # - company: First Company
     #   link:
     #   tags: Part-time, remote

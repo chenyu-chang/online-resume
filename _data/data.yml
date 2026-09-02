@@ -95,27 +95,39 @@ experience:
   #   The experiences section in a resume is a section where you list your previous work experiences and accomplishments. It typically includes information about your previous job titles, companies you worked for, the dates of your employment, and your key responsibilities and achievements in each role. This section is important because it gives potential employers a sense of your work history and the skills and expertise you have developed over time. It can also help demonstrate your ability to contribute value to a new organization based on your past achievements.
 
   items:
-    - company: Far Eastern Memorial Hospital
-      link: 
+    - company: Rdc Semiconductor
+      link: 'https://www.rdc.com.tw'
       tags: 
-      date: 2023.09 - Present
-      role: Research Assistant
-      location: New Taipei City
+      date: 2024.11 - Present
+      role: System-on-Chip Design Engineer
+      location: Hsinchu City
       description: |
-        **Coronary Artery Disease Detection and Prognosis Prediction Project:**
-          + **Overview:** Developed a comprehensive system for detecting and predicting the prognosis of obstructive coronary artery disease using 3D nuclear myocardial perfusion scan images.
-          + **Technologies Used:** CNN (Inception, Residual Networks), Unet, Transformer (Swin Transformer), TensorFlow, PyTorch MONAI, MATLAB.
-          + **Conducted Clinical Validation** across hospitals, performing statistical analysis and addressing overfitting to enhance model generalizability.     
-        
-        **Work Content:**
-          + Process medical images (DICOM) and clinical data.
-          + Develop and optimize predictive models, and analyze results in collaboration with medical experts.
-          + Reproduce academic papers related to deep learning and medical imaging.
+        **Multi-port Register File & CAM Design:**
+          + **Overview:** Designed RTL for multi-port register files and content-addressable memories (CAMs) targeting an advanced semiconductor process.
+          + **Technologies Used:** SystemVerilog/Verilog, Synthesis, Static Timing Analysis (STA).
+          + **Performed timing-driven RTL optimization** by analyzing critical paths and timing bottlenecks from synthesis and STA reports, refining the RTL implementation to achieve the target operating frequency.
+
+        **DDR Controller Synthesis & Timing Analysis:**
+          + **Overview:** Performed synthesis and static timing analysis for DDR controller designs and developed timing constraints for implementation and timing verification.
+          + **Technologies Used:** Synthesis, STA, SDC, Timing Constraint Development.
+          + **Developed and debugged timing constraints** to accurately model clocks, interfaces, and timing relationships and support timing closure.
+
+        **SystemVerilog UVM IP Verification:**
+          + **Overview:** Developed SystemVerilog UVM-based verification tests for IP blocks designed by other engineering teams.
+          + **Technologies Used:** SystemVerilog, UVM, Functional Verification.
+          + **Analyzed verification failures and design bugs**, collaborated with RTL designers to identify root causes, validate fixes, and ensure correct IP functionality.
+
+        **MBIST Controller Design for Multi-port Register File:**
+          + **Overview:** Designed an RTL-based MBIST controller for internally developed multi-port register files, implementing memory test sequences including March algorithms and checkerboard patterns.
+          + **Technologies Used:** SystemVerilog/Verilog, March Algorithm, Checkerboard Testing, Clock Domain Crossing (CDC).
+          + **Implemented test control and fault detection logic**, including address/data generation, read/write sequencing, read-back comparison, error detection, and pass/fail status generation.
+          + **Designed CDC mechanisms** to support reliable operation across multiple clock domains.
+ 
 
     - company: Far Eastern Memorial Hospital
       link: 
       tags: 
-      date: 2023.09 - Present
+      date: 2023.09 - 2024.10
       role: Research Assistant
       location: New Taipei City
       description: |
@@ -123,11 +135,6 @@ experience:
           + **Overview:** Developed a comprehensive system for detecting and predicting the prognosis of obstructive coronary artery disease using 3D nuclear myocardial perfusion scan images.
           + **Technologies Used:** CNN (Inception, Residual Networks), Unet, Transformer (Swin Transformer), TensorFlow, PyTorch MONAI, MATLAB.
           + **Conducted Clinical Validation** across hospitals, performing statistical analysis and addressing overfitting to enhance model generalizability.     
-        
-        **Work Content:**
-          + Process medical images (DICOM) and clinical data.
-          + Develop and optimize predictive models, and analyze results in collaboration with medical experts.
-          + Reproduce academic papers related to deep learning and medical imaging.
 
     # - company: First Company
     #   link:
@@ -141,7 +148,7 @@ experience:
     #     + Second
 
 project:
-  show: true
+  show: false
   order: 4
   title: Projects
   # description: |

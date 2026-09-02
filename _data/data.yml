@@ -192,55 +192,56 @@ project:
         + **Reproduced Research:** Reproduced the deep learning architecture from a relevant research paper using PyTorch, integrating it with our dataset and technologies.
         + **Transfer Learning and Fine-Tuning:** Transferred pretrained weights from a 2D ResNet to a 3D ResNet andfine-tuned the model, improving the F1-score from 0.8 to 0.9.
 
+
 skill:
   show: true
   order: 5
   title: Skills
-  # description: |
-  #   The skills section in a resume is a dedicated section where you can list out the various skills that you possess that are relevant to the job you are applying for. This section allows you to highlight your strengths and demonstrate your capabilities to potential employers.
-
-  #   The skills section can include both hard skills and soft skills. Hard skills are specific technical abilities or knowledge related to a particular job or industry, such as proficiency in programming languages or experience with certain software programs. Soft skills are more general personal traits and abilities, such as communication skills, leadership, problem-solving, or teamwork.
-
-  #   When crafting your skills section, it's important to tailor it to the specific job you are applying for, and only include skills that are relevant to the position. This can help catch the attention of the hiring manager and demonstrate that you have the qualifications necessary to succeed in the role.
-
-  #   There are multiple ways to present your skills here. One way is to show them in a rating format. Another way is to group them together. Alternatively, you can use markdown to format it in a way that you prefer.
 
   items:
-  - name: Python
-    level: 4
-  - name: MATLAB
-    level: 4
-  - name: C/C++
-    level: 3
+    - name: SystemVerilog
+      level: 4
+    - name: Verilog
+      level: 4
+    - name: Python
+      level: 3
 
   groups:
-    - name: Computer Vision
+    - name: Front-End Design
       item:
-        - Image Processing
-        - Classification
-        - Segmentation
-        - Registration
-    - name: Python Framework
+        - RTL Design
+        - Clock Domain Crossing (CDC)
+        - Low-Power Design
+
+    - name: Design Verification
       item:
-        - Pytorch
-        - TensorFlow
-        - Scikit-learn
-        - Matplotlib
-        - Pandas        
-        - OpenCV
-    - name: Linux
+        - UVM Environment Development
+        - Functional Verification
+        - Simulation & Debugging
+
+    - name: Synthesis & Timing
       item:
+        - Logic Synthesis
+        - Static Timing Analysis (STA)
+        - Timing Constraints (SDC)
+        - Timing Optimization
+
+    - name: EDA Tools
+      item:
+        - Synopsys Design Compiler
+        - Synopsys PrimeTime
+        - Synopsys VCS
+        - Synopsys Verdi
+        - Cadence Xcelium (xrun)
+        - AMD Vivado
+
+    - name: Development Environment & Tools
+      item:
+        - Linux
         - Vim
-        - Python Virtualenv
-        - GPU server utilization
-    - name: Development Tools
-      item:
-        - CMake
-        - Docker
-    - name: Embedded Systems
-      item:
-        - Arduino
-        - Raspberry Pi
+        - Git
+        - OpenAI Codex
+
 
 education:
   show: true

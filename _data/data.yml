@@ -105,7 +105,8 @@ experience:
         **Multi-port Register File & CAM Design:**
           + **Overview:** Designed RTL for multi-port register files and content-addressable memories (CAMs) targeting an advanced semiconductor process.
           + **Technologies Used:** SystemVerilog/Verilog, Synthesis, Static Timing Analysis (STA).
-          + **Performed timing-driven RTL optimization** by analyzing critical paths and timing bottlenecks from synthesis and STA reports, refining the RTL implementation to achieve the target operating frequency.
+          + **Conducted literature review on existing architectures and published design techniques**, applying relevant insights to refine the RTL architecture and implementation.
+          + **Performed timing-driven RTL optimization** by analyzing critical paths and timing bottlenecks from synthesis and STA reports, iteratively improving the design to achieve the target operating frequency.
 
         **DDR Controller Synthesis & Timing Analysis:**
           + **Overview:** Performed synthesis and static timing analysis for DDR controller designs and developed timing constraints for implementation and timing verification.
@@ -219,28 +220,27 @@ skill:
         - Functional Verification
         - Simulation & Debugging
 
-    - name: Synthesis & Timing
+    - name: Synthesis
       item:
-        - Logic Synthesis
+        - TCL Scripting
         - Static Timing Analysis (STA)
-        - Timing Constraints (SDC)
-        - Timing Optimization
+        - Timing Constraints
 
     - name: EDA Tools
       item:
-        - Synopsys Design Compiler
-        - Synopsys PrimeTime
-        - Synopsys VCS
-        - Synopsys Verdi
-        - Cadence Xcelium (xrun)
-        - AMD Vivado
+        - Design Compiler
+        - PrimeTime
+        - VCS
+        - Verdi
+        - Xcelium (xrun)
+        - Vivado
 
     - name: Development Environment & Tools
       item:
         - Linux
         - Vim
         - Git
-        - OpenAI Codex
+        - Codex
 
 
 education:
@@ -296,7 +296,7 @@ certificate:
         It's my Example Certificate Two by Example.
 
 publication:
-  show: true
+  show: false
   order: 7
   title: Publications
   # description: |
@@ -416,7 +416,7 @@ interest:
       link:
 
 evaluation:
-  show: true
+  show: false
   order: 13
   title: activities
   description: |
